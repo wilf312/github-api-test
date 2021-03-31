@@ -3,7 +3,7 @@
 
 const { Octokit } = require('@octokit/core');
 // personal token https://github.com/settings/tokens
-const octokit = new Octokit({ auth: process.env.token });
+const octokit = new Octokit({ auth: process.env.TOKEN });
 
 const createPR = async (target, branch, text) => {
   try {
