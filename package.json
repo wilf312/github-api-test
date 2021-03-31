@@ -6,7 +6,6 @@
   "author": "wilf312 <g.okada.wilf+github@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^18.5.2",
-    "github-api": "^3.4.0"
+    "@octokit/rest": "^18.5.2"
   }
 }
