@@ -1,0 +1,12 @@
+{
+  "name": "github-api-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wilf312/github-api-test.git",
+  "author": "wilf312 <g.okada.wilf+github@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^18.5.2",
+    "github-api": "^3.4.0"
+  }
+}
